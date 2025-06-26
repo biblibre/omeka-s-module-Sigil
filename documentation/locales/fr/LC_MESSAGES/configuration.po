@@ -1,0 +1,104 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, BibLibre
+# This file is distributed under the same license as the Sigil package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sigil\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-27 10:57+0200\n"
+"PO-Revision-Date: 2025-06-27 10:59+0200\n"
+"Last-Translator: Julian Maurice <julian.maurice@biblibre.com>\n"
+"Language-Team: fr <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Generated-By: Babel 2.17.0\n"
+"X-Generator: Poedit 3.6\n"
+
+#: ../../configuration.rst:2
+msgid "Configuration"
+msgstr "Configuration"
+
+#: ../../configuration.rst:4
+msgid ""
+"To access the configuration page, log in to the administration "
+"interface, go to the \"Modules\" page, find \"Sigil\" and click on the "
+"corresponding \"Configure\" button."
+msgstr ""
+"Pour accéder à la page de configuration, connectez-vous à l'interface "
+"d'administration, allez sur la page \"Modules\", trouvez \"Sigil\" et "
+"cliquez sur le bouton \"Configurer\" correspondant."
+
+#: ../../configuration.rst:10
+msgid ""
+"To select the image to use as watermark, click on the \"Select\" button. "
+"This will open the asset sidebar, where you will be able to upload a new "
+"file, or select an existing asset."
+msgstr ""
+"Pour sélectionner l'image à utiliser comme filigrane, cliquez sur le "
+"bouton \"Choisir\". Cela ouvrir la barre latérale des fichiers, où vous "
+"pourrez charger un nouveau fichier, ou sélectionner un fichier existant."
+
+#: ../../configuration.rst:14
+msgid ""
+"For more informations about assets, see `Assets in the Omeka S User "
+"Manual <https://omeka.org/s/docs/user-manual/admin/assets/>`__."
+msgstr ""
+"Pour plus d'informations à propos des fichiers, voir `Assets dans le "
+"manuel utilisateur Omeka S <https://omeka.org/s/docs/user-manual/admin/"
+"assets/>`__. (anglais)"
+
+#: ../../configuration.rst:19
+msgid ""
+"Once the image is selected, you can select a position for the watermark. "
+"The available options are:"
+msgstr ""
+"Une fois l'image sélectionnée, vous pouvez choisir une position pour le "
+"filigrane. Les options disponibles sont :"
+
+#: ../../configuration.rst:22
+msgid "Center"
+msgstr "Centre"
+
+#: ../../configuration.rst:23
+msgid "East"
+msgstr "Est"
+
+#: ../../configuration.rst:24
+msgid "North East"
+msgstr "Nord Est"
+
+#: ../../configuration.rst:25
+msgid "North"
+msgstr "Nord"
+
+#: ../../configuration.rst:26
+msgid "North West"
+msgstr "Nord Ouest"
+
+#: ../../configuration.rst:27
+msgid "South East"
+msgstr "Sud Est"
+
+#: ../../configuration.rst:28
+msgid "South"
+msgstr "Sud"
+
+#: ../../configuration.rst:29
+msgid "South West"
+msgstr "Sud Ouest"
+
+#: ../../configuration.rst:30
+msgid "West"
+msgstr "Ouest"
+
+#: ../../configuration.rst:34
+msgid "To confirm configuration changes, click on the \"Submit\" button."
+msgstr ""
+"Pour confirmer les changements de configuration, cliquez sur le bouton "
+"\"Soumettre\"."

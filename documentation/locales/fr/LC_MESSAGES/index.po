@@ -1,0 +1,69 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, BibLibre
+# This file is distributed under the same license as the Sigil package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sigil\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-27 10:57+0200\n"
+"PO-Revision-Date: 2025-06-27 11:01+0200\n"
+"Last-Translator: Julian Maurice <julian.maurice@biblibre.com>\n"
+"Language-Team: fr <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Generated-By: Babel 2.17.0\n"
+"X-Generator: Poedit 3.6\n"
+
+#: ../../index.rst:23
+msgid "Table of contents"
+msgstr "Table des matières"
+
+#: ../../index.rst:2
+msgid "Sigil documentation"
+msgstr "Documentation de Sigil"
+
+#: ../../index.rst:4
+msgid ""
+"`Sigil`_ is a module for Omeka S that automatically modify imported "
+"images to add a watermark."
+msgstr ""
+"`Sigil`_ est un module pour Omeka S qui modifie automatiquement les "
+"images importées pour y ajouter un filigrane."
+
+#: ../../index.rst:10
+msgid "Requirements"
+msgstr "Pré-requis"
+
+#: ../../index.rst:12
+msgid "Omeka S >= 4.0.0"
+msgstr "Omeka S >= 4.0.0"
+
+#: ../../index.rst:13
+msgid "`ImageMagick <https://imagemagick.org/>`__"
+msgstr "`ImageMagick <https://imagemagick.org/>`__"
+
+#: ../../index.rst:16
+msgid "Quick start"
+msgstr "Démarrage rapide"
+
+#: ../../index.rst:18
+msgid ""
+"`Add the module to Omeka S <https://omeka.org/s/docs/user-manual/modules/"
+"#adding-modules-to-omeka-s>`__"
+msgstr ""
+"`Ajouter le module à Omeka S <https://omeka.org/s/docs/user-manual/"
+"modules/#adding-modules-to-omeka-s>`__"
+
+#: ../../index.rst:20
+msgid ""
+"In the module configuration form, upload an image file that will serve "
+"as watermark and select a position for the watermark."
+msgstr ""
+"Dans le formulaire de configuration du module, chargez un fichier image "
+"qui servira de filigrane et sélectionnez une position pour le filigrane."
