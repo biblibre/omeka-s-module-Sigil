@@ -22,6 +22,6 @@ trigger:
     - 'push'
 ---
 kind: signature
-hmac: ff1885c1e071a74d0fa45826d1d34a4b8c80ac06d9927177c1b238f5e40b33db
+hmac: 530cd3794afb262f6738f630ed4ebce2b6769f190794b23d2cc7271698e944aa
 
 ...
